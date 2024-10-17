@@ -1,0 +1,1 @@
+data = "baru belajar buoosss!!!"
